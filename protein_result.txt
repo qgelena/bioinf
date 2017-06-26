@@ -1,0 +1,52 @@
+
+1. ATP synthase F1, beta subunit [Chlorobium tepidum TLS]
+462 aa protein
+AAM73450.1 GI:21648279
+
+2. ATP synthase F1, alpha subunit [Chlorobium tepidum TLS]
+526 aa protein
+AAM73250.1 GI:21648064
+
+3. ATP synthase F1, beta subunit [Chlorobium tepidum TLS]
+480 aa protein
+AAM72266.1 GI:21646993
+
+4. ATP synthase F1, epsilon subunit [Chlorobium tepidum TLS]
+129 aa protein
+AAM72265.1 GI:21646992
+
+5. ATP synthase F0, B subunit [Chlorobium tepidum TLS]
+175 aa protein
+AAM71267.1 GI:21645909
+
+6. ATP synthase F1, epsilon subunit [Chlorobium tepidum TLS]
+88 aa protein
+AAM73451.1 GI:21648280
+
+7. ATP synthase F1, gamma subunit [Chlorobium tepidum TLS]
+292 aa protein
+AAM73249.1 GI:21648063
+
+8. ATP synthase F0, A subunit [Chlorobium tepidum TLS]
+276 aa protein
+AAM71269.1 GI:21645911
+
+9. ATP synthase F0, C subunit [Chlorobium tepidum TLS]
+73 aa protein
+AAM71268.1 GI:21645910
+
+10. ATP synthase F1, delta subunit [Chlorobium tepidum TLS]
+181 aa protein
+AAM71266.1 GI:21645908
+
+11. ATP synthase, putative [Chlorobium tepidum TLS]
+107 aa protein
+AAM72264.1 GI:21646991
+
+12. ATP synthase F0, A subunit [Chlorobium tepidum TLS]
+221 aa protein
+AAM72262.1 GI:21646989
+
+13. hypothetical protein CT0272 [Chlorobium tepidum TLS]
+118 aa protein
+AAM71518.1 GI:21646185
